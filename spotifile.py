@@ -11,6 +11,8 @@ import spotifyfs
 import spotipy
 import spotify
 import requests
+import conf
+
 
 messages = Queue.Queue()
 response = Queue.Queue()
