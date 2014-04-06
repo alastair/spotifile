@@ -48,3 +48,7 @@ to fill to the requested size
 Seek doesn't work
 
 It would be nice to encode to mp3 on the fly
+
+Because libspotify only lets you stream one file you can only read from one
+song at a time. The behaviour if you try and read from more than one is unknown.
+It's likely that all streams will get the same audio content
