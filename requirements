@@ -1,0 +1,10 @@
+argparse==1.2.1
+cffi==0.8.2
+fuse-python==0.2
+ipython==2.0.0
+pyalsaaudio==0.7
+pycparser==2.10
+pyspotify==2.0.0b1
+requests==2.2.1
+spotipy==0.9
+wsgiref==0.1.2
