@@ -46,3 +46,5 @@ return as much audio as is available in the buffer instead of waiting for it
 to fill to the requested size
 
 Seek doesn't work
+
+It would be nice to encode to mp3 on the fly
